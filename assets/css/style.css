@@ -1,0 +1,5 @@
+#add_payment_method #payment ul.payment_methods li img.icon, .woocommerce-checkout #payment ul.payment_methods li img.icon {
+    max-width: 40px;
+    padding-left: 3px;
+    margin: 0;
+}
